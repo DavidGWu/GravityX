@@ -1,0 +1,11 @@
+How to run Gravity X
+
+- in order to run GravityX :
+- First, create a new project named "GravityX" needs to be created in Eclipse
+- Then copy the content of the "bin" and "src" folder from this CD into your newly created project's "bin" and "src" folders.
+- Make sure that JavaFX is runnable. If not right click on the "GravityX" project in Eclipse -> Build Path -> Configure Build Path -> Expend JRE System Library -> Acess rules -> Edit -> Add javafx/** and set as accessible -> apply
+- Execute the program.
+- Move the ship with arrows keys
+- shoot bullets with spacebar
+- Interaction between bullets and planets have not been included yet.
+David
